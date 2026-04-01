@@ -2,7 +2,7 @@
 <!--                 HEADER / TITLE                         -->
 <!-- ====================================================== -->
 
-<h1 align="center">Hi 👋 I'm crazyzyz</h1>
+<h1 align="center">Hi 👋 I'm CrazyJaylan</h1>
 <h3 align="center">Vision Algorithm Engineer · AR/VR</h3>
 
 <p align="center">
