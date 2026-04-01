@@ -32,8 +32,8 @@ Building large-scale visual localization · Gaussian Splatting · XR Streaming �
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=crazyzyz&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/CrazyJaylan)
-[![GitHub followers](https://img.shields.io/github/followers/crazyzyz?label=Followers&style=for-the-badge&color=BD93F9&logo=github)](https://github.com/crazyzyz?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=CrazyJaylan&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/CrazyJaylan)
+[![GitHub followers](https://img.shields.io/github/followers/CrazyJaylan?label=Followers&style=for-the-badge&color=BD93F9&logo=github)](https://github.com/CrazyJaylan?tab=followers)
 
 
 </div>
