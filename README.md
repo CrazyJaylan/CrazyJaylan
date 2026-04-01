@@ -92,14 +92,6 @@ Recently I'm particularly interested in:
 
 I will continue open-sourcing **more VR/XR related projects**. If you have interesting ideas or collaborations — feel free to reach out 🙂
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=crazyzyz&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazyzyz&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
